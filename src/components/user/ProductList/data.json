@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Premium Wireless Headphones",
+      "imageUrl": "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817602.jpg?ga=GA1.1.1943509937.1710504567&semt=ais_hybrid",
+      "description": "High-quality wireless headphones with noise cancellation",
+      "price": 199.99,
+      "commission": 10,
+      "inStock": true,
+      "marketingMaterials": "Enjoy crystal clear sound with our premium wireless headphones!"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "description": "Track your fitness goals with this advanced smartwatch",
+      "imageUrl":"https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?ga=GA1.1.1943509937.1710504567&semt=ais_hybrid",
+      "price": 149.99,
+      "commission": 8,
+      "inStock": true,
+      "marketingMaterials": "Stay fit and connected with our latest smartwatch technology!"
+    },
+    {
+      "id": 3,
+      "name": "Ultra HD 4K TV",
+      "imageUrl":"https://img.freepik.com/free-psd/modern-tv-screen-isolated_23-2151430324.jpg?ga=GA1.1.1943509937.1710504567&semt=ais_hybrid",
+      "description": "Experience stunning visuals with this 55-inch 4K TV",
+      "price": 699.99,
+      "commission": 12,
+      "inStock": false,
+      "marketingMaterials": "Bring the cinema experience home with our Ultra HD 4K TV!"
+    },
+    {
+        "id": 4,
+        "name": "Smart Fitness Watch",
+        "imageUrl":"https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817602.jpg?ga=GA1.1.1943509937.1710504567&semt=ais_hybrid",
+        "description": "Track your fitness goals with this advanced smartwatch",
+        "price": 149.99,
+        "commission": 8,
+        "inStock": true,
+        "marketingMaterials": "Stay fit and connected with our latest smartwatch technology!"
+      },
+      {
+        "id": 5,
+        "name": "Ultra HD 4K TV",
+        "imageUrl":"https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817602.jpg?ga=GA1.1.1943509937.1710504567&semt=ais_hybrid",
+        "description": "Experience stunning visuals with this 55-inch 4K TV",
+        "price": 699.99,
+        "commission": 12,
+        "inStock": false,
+        "marketingMaterials": "Bring the cinema experience home with our Ultra HD 4K TV!"
+      }
+  ]
